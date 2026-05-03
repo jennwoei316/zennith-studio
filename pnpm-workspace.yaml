@@ -3,3 +3,4 @@ packages:
   - apps/*
   - tools/*
   - e2e
+  - 'apps/zennith'

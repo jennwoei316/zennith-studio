@@ -1,10 +1,10 @@
 {
-  "name": "open-design",
+  "name": "zennith-studio",
   "version": "0.2.0",
   "private": true,
   "packageManager": "pnpm@10.33.2",
   "type": "module",
-  "description": "Local-first design product: detects your installed code-agent CLI, runs design skills + design systems, streams artifacts into a sandboxed preview.",
+  "description": "Zennith Studio \u2014 brand-aligned design generation for Zennith OS, soft-fork of open-design.",
   "license": "Apache-2.0",
   "bin": {
     "od": "./apps/daemon/dist/cli.js"
@@ -38,5 +38,11 @@
       "electron",
       "esbuild"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennwoei316/zennith-studio.git"
+  },
+  "homepage": "https://github.com/jennwoei316/zennith-studio",
+  "author": "Zennith OS / jennwoei316"
 }
