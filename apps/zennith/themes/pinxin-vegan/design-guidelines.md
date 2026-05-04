@@ -1,0 +1,1 @@
+/Users/jennwoeiloh/.openclaw/brands/pinxin-vegan/design-guidelines.md

@@ -3,5 +3,5 @@
   "version": "0.1.0",
   "private": true,
   "main": "./hooks/index.ts",
-  "description": "Zennith-specific hooks, exports, adapters, prompts, themes layered onto open-design upstream."
+  "description": "Zennith-specific hooks, exports, adapters, prompts, and themes layered onto open-design."
 }

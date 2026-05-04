@@ -1,0 +1,1 @@
+/Users/jennwoeiloh/.openclaw/brands/gulatis/design-guidelines.md
